@@ -19,7 +19,7 @@ A comprehensive digital forensic investigation into a high-profile burglary case
 
 - `OP_WC_0037.E01` - `OP_WC_0037.E11`: Segments of the evidence image file.
 - `OP_WC_0037.E01.txt`: Metadata and verification results of the image file.
-- - `Digital Forensic Case - Operation Whitechapel.pdf`: Detailed report on the case, artefacts, and analysis.
+- `Digital Forensic Case - Operation Whitechapel.pdf`: Detailed report on the case, artefacts, and analysis.
 
 ## Case Narrative
 
