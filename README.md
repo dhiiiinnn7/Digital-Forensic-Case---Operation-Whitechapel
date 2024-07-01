@@ -49,7 +49,7 @@ The investigation utilized several forensic tools and techniques, including:
 
 ### Set Up a Virtual Environment
 
-You can use the image file to set up the virtual environment: `OP_WC_0037`
+Use this link to download the image file and set up the virtual environment: `(https://drive.google.com/drive/folders/1V5icotc6gn85o4jJd333uXo5uiILjfh3?usp=sharing)`
 
 ### Install Dependencies
 
